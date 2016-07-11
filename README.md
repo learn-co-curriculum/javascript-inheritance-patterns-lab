@@ -56,7 +56,7 @@ Define and implement functions on `Circle` to calculate `area()` and
 property. `Polygon` should have a property called `sides` that holds the
 array of `Side` objects. Implement a function called `perimeter()` that
 calculates the perimeter of any `Polygon` based on the lengths of the
-`sides`. Implement a function called `numberofSides()` that returns the
+`sides`. Implement a function called `numberOfSides()` that returns the
 number of sides.
 5. Define a `Quadrilateral` object that inherits from `Polygon` and is
    constructed with four integer arguments representing the side
